@@ -30,16 +30,19 @@
 ## Funcionalidades
 
 * [📰 Novedades](funcionalidades/novedades.md)
+* [🗓 Eventos](funcionalidades/eventos.md)
+* [🗒 Menú](funcionalidades/menu.md)
 * [📅 Calendario](funcionalidades/calendario.md)
 * [🎧 Podcasts](funcionalidades/podcasts.md)
-* [🗓 Eventos](funcionalidades/eventos.md)
 * [🏨 Hoteles](funcionalidades/hoteles.md)
-* [🗒 Menú](funcionalidades/menu.md)
 * [📋 Encuestas de satisfacción](funcionalidades/encuestas-de-satisfaccion.md)
 
-## Extras
+## Usuario
 
-* [📲 Credencial digital](extras/credencial-digital.md)
+* [🙍♂ Usuario](usuario/usuario.md)
+* [📲 Credencial de usuario](usuario/credencial-de-usuario.md)
+* [⚙ Modificar](usuario/modificar.md)
+* [🖥 Soporte](usuario/soporte.md)
 
 ***
 
