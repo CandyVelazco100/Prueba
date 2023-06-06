@@ -23,16 +23,18 @@
 
 ## Procesos
 
+* [📍 Inicio de sesión](procesos/inicio-de-sesion.md)
 * [📝 Pre-registro](procesos/pre-registro.md)
 * [🧾 Registro](procesos/registro.md)
 
 ## Funcionalidades
 
-* [📅 Calendario](funcionalidades/calendario.md)
 * [📰 Novedades](funcionalidades/novedades.md)
+* [📅 Calendario](funcionalidades/calendario.md)
 * [🎧 Podcasts](funcionalidades/podcasts.md)
 * [🗓 Eventos](funcionalidades/eventos.md)
 * [🏨 Hoteles](funcionalidades/hoteles.md)
+* [🗒 Menú](funcionalidades/menu.md)
 * [📋 Encuestas de satisfacción](funcionalidades/encuestas-de-satisfaccion.md)
 
 ## Extras

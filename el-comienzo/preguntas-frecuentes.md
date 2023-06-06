@@ -50,6 +50,8 @@ Ofrecemos soporte técnico 24/7 para asegurarnos de que nuestros clientes obteng
 
 <summary>¿Cómo puedo recuperar mi contraseña?</summary>
 
+Si el usuario pierde la contraseña es posible recuperarla a partir de proporcionar el correo electrónico registrado para su cuenta.
 
+Posteriormente así enviar un correo con un enlace al proceso de cambio de contraseña donde se ingresará la contraseña nueva y posteriormente ingresar a su cuenta usando dicha nueva contraseña.
 
 </details>
