@@ -1,2 +1,0 @@
-# ❌ Eliminación de eventos
-

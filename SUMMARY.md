@@ -12,12 +12,11 @@
 ## Configuración inicial
 
 * [📝 Administración de congresos](configuracion-inicial/administracion-de-congresos/README.md)
-  * [📍 Creación de congresos](configuracion-inicial/administracion-de-congresos/creacion-de-congresos.md)
+  * [📍 Creación de Congreso/Noticia/Taller/Conferencia](configuracion-inicial/administracion-de-congresos/creacion-de-congreso-noticia-taller-conferencia.md)
+  * [❌ Eliminación de Noticia/Taller/Conferencia](configuracion-inicial/administracion-de-congresos/eliminacion-de-noticia-taller-conferencia.md)
   * [🗂 Historial de congresos](configuracion-inicial/administracion-de-congresos/historial-de-congresos.md)
   * [📕 Reportes de congresos](configuracion-inicial/administracion-de-congresos/reportes-de-congresos.md)
-* [📈 Administración de eventos](configuracion-inicial/administracion-de-eventos/README.md)
-  * [⚙ Creación de eventos](configuracion-inicial/administracion-de-eventos/creacion-de-eventos.md)
-  * [❌ Eliminación de eventos](configuracion-inicial/administracion-de-eventos/eliminacion-de-eventos.md)
+  * [📈 Panel Rápido](configuracion-inicial/administracion-de-congresos/panel-rapido.md)
 * [📊 Gestor de asistentes](configuracion-inicial/gestor-de-asistentes.md)
 * [📉 Gestor de ponentes](configuracion-inicial/gestor-de-ponentes.md)
 * [📱 Lector de Código QR](configuracion-inicial/lector-de-codigo-qr.md)
@@ -26,7 +25,6 @@
 
 * [📍 Inicio de sesión](procesos/inicio-de-sesion.md)
 * [📝 Pre-registro](procesos/pre-registro.md)
-* [🧾 Registro](procesos/registro.md)
 
 ## Funcionalidades
 
