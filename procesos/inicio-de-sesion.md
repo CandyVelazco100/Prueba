@@ -6,7 +6,7 @@ description: >-
 
 # 📍 Inicio de sesión
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Inicio de sesión</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>Inicio de sesión</p></figcaption></figure>
 
 ### Iniciar sesión
 
@@ -20,4 +20,4 @@ Si el usuario pierde la contraseña es posible recuperarla a partir de proporcio
 
 Posteriormente así enviar un correo con un enlace al proceso de cambio de contraseña donde se ingresará la contraseña nueva y posteriormente ingresar a su cuenta usando dicha nueva contraseña.
 
-<figure><img src="../.gitbook/assets/iPhone_14_-_Pre-Registro_(Recuperacin_de_contrasea).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/iPhone_14_-_Pre-Registro_(Recuperacin_de_contrasea).png" alt="" width="375"><figcaption></figcaption></figure>

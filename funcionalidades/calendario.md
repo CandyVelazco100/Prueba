@@ -8,7 +8,7 @@ description: >-
 
 El apartado de calendario principalmente nos permite observar las fechas y horarios definidos de los diferentes eventos dentro del congreso escala así como ver de manera general si hemos seleccionado asistir alguna de las actividades o conferencias que proporcionará el congreso.
 
-<figure><img src="../.gitbook/assets/iPhone 14 - Calendario.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/iPhone 14 - Calendario.png" alt="" width="195"><figcaption></figcaption></figure>
 
 ### Acceso rápido a actividades
 
@@ -26,4 +26,4 @@ Una vez estemos dentro del calendario y vemos la programación por día podremos
 
 El usuario administrador puede observar el calendario de actividades que se le muestra a los usuarios pero con las opciones añadidas de agregar, borrar y editar las actividades.
 
-<figure><img src="../.gitbook/assets/Untitled (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (4).png" alt="" width="563"><figcaption></figcaption></figure>
