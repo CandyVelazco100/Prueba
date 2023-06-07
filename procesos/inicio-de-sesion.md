@@ -6,7 +6,7 @@ description: >-
 
 # 📍 Inicio de sesión
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Inicio de sesión</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Inicio de sesión</p></figcaption></figure>
 
 ### Iniciar sesión
 

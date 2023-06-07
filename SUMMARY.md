@@ -20,6 +20,7 @@
   * [❌ Eliminación de eventos](configuracion-inicial/administracion-de-eventos/eliminacion-de-eventos.md)
 * [📊 Gestor de asistentes](configuracion-inicial/gestor-de-asistentes.md)
 * [📉 Gestor de ponentes](configuracion-inicial/gestor-de-ponentes.md)
+* [📱 Lector de Código QR](configuracion-inicial/lector-de-codigo-qr.md)
 
 ## Procesos
 
@@ -36,6 +37,7 @@
 * [🎧 Podcasts](funcionalidades/podcasts.md)
 * [🏨 Hoteles](funcionalidades/hoteles.md)
 * [📋 Encuestas de satisfacción](funcionalidades/encuestas-de-satisfaccion.md)
+* [💵 Referencias bancarias](funcionalidades/referencias-bancarias.md)
 
 ## Usuario
 

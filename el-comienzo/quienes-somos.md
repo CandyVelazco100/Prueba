@@ -14,5 +14,5 @@ De igual manera que contamos con más áreas con sus respectivos lideres e integ
 
 En resumen, cada uno de los miembros de nuestro equipo tiene un papel vital en el éxito de nuestra empresa de desarrollo de aplicaciones de gestión. Todos trabajan juntos en estrecha colaboración para garantizar que nuestros productos sean de alta calidad y satisfagan las necesidades de nuestros clientes.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Foto de los lideres y personal de EvoGrowth.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Foto de los lideres y personal de EvoGrowth.</p></figcaption></figure>
 
