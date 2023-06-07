@@ -11,6 +11,11 @@
 
 ## Configuración inicial
 
+* [🙍♂ Usuario](configuracion-inicial/usuario/README.md)
+  * [⏭ Registro de usuario](configuracion-inicial/usuario/registro-de-usuario.md)
+  * [🖥 Soporte](configuracion-inicial/usuario/soporte.md)
+  * [⚙ Modificar](configuracion-inicial/usuario/modificar.md)
+  * [📲 Credencial de usuario](configuracion-inicial/usuario/credencial-de-usuario.md)
 * [📝 Administración de congresos](configuracion-inicial/administracion-de-congresos/README.md)
   * [📍 Creación de Congreso/Noticia/Taller/Conferencia](configuracion-inicial/administracion-de-congresos/creacion-de-congreso-noticia-taller-conferencia.md)
   * [❌ Eliminación de Noticia/Taller/Conferencia](configuracion-inicial/administracion-de-congresos/eliminacion-de-noticia-taller-conferencia.md)
@@ -36,13 +41,6 @@
 * [🏨 Hoteles](funcionalidades/hoteles.md)
 * [📋 Encuestas de satisfacción](funcionalidades/encuestas-de-satisfaccion.md)
 * [💵 Referencias bancarias](funcionalidades/referencias-bancarias.md)
-
-## Usuario
-
-* [🙍♂ Usuario](usuario/usuario.md)
-* [📲 Credencial de usuario](usuario/credencial-de-usuario.md)
-* [⚙ Modificar](usuario/modificar.md)
-* [🖥 Soporte](usuario/soporte.md)
 
 ***
 
