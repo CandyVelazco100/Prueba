@@ -11,11 +11,11 @@
 
 ## Configuración inicial
 
-* [🙍♂ Usuario](configuracion-inicial/usuario/README.md)
+* [🙍♂ Usuario](usuario/usuario.md)
   * [⏭ Registro de usuario](configuracion-inicial/usuario/registro-de-usuario.md)
-  * [🖥 Soporte](configuracion-inicial/usuario/soporte.md)
-  * [⚙ Modificar](configuracion-inicial/usuario/modificar.md)
-  * [📲 Credencial de usuario](configuracion-inicial/usuario/credencial-de-usuario.md)
+  * [📲 Credencial de usuario](usuario/credencial-de-usuario.md)
+  * [⚙ Modificar](usuario/modificar.md)
+  * [🖥 Soporte](usuario/soporte.md)
 * [📝 Administración de congresos](configuracion-inicial/administracion-de-congresos/README.md)
   * [📍 Creación de Congreso/Noticia/Taller/Conferencia](configuracion-inicial/administracion-de-congresos/creacion-de-congreso-noticia-taller-conferencia.md)
   * [❌ Eliminación de Noticia/Taller/Conferencia](configuracion-inicial/administracion-de-congresos/eliminacion-de-noticia-taller-conferencia.md)
