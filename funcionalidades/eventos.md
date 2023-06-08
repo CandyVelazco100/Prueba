@@ -4,7 +4,7 @@
 
 <summary>Talleres</summary>
 
-El apartado de talleres permite principalmente observar todos los talleres disponibles dentro del congreso y desplegar información relevante a ellos
+El apartado de talleres permite principalmente observar todos los talleres disponibles dentro del congreso y desplegar información relevante a ellos.
 
 #### Asistencia a talleres
 
@@ -13,6 +13,8 @@ Una vez dentro del apartado de talleres, nos permitirá elegir si queremos asist
 #### Capacidad en tiempo real
 
 Muestra la capacidad del taller en cuestión en tiempo real, así es más fácil saber cuando hay cupo disponible y no se ofertan espacios que no existen.
+
+<img src="../.gitbook/assets/iPhone_14_-_Talleres.png" alt="" data-size="original">
 
 </details>
 
@@ -29,5 +31,7 @@ Una vez dentro del apartado de conferencias, nos permitirá elegir si queremos a
 #### Capacidad en tiempo real
 
 Muestra la capacidad de la conferencia en cuestión en tiempo real, así es más fácil saber cuando hay cupo disponible y no se ofertan lugares de más.
+
+<img src="../.gitbook/assets/iPhone_14_-_Conferencias.png" alt="" data-size="original">
 
 </details>

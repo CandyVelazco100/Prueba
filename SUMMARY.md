@@ -20,7 +20,7 @@
   * [⚙ Modificar](usuario/modificar.md)
   * [🖥 Soporte](usuario/soporte.md)
 * [📝 Administración de congresos](configuracion-inicial/administracion-de-congresos/README.md)
-  * [📍 Creación de Congreso/Noticia/Taller/Conferencia](configuracion-inicial/administracion-de-congresos/creacion-de-congreso-noticia-taller-conferencia.md)
+  * [📍 Creación y modificación de Congreso/Noticia/Taller/Conferencia](configuracion-inicial/administracion-de-congresos/creacion-y-modificacion-de-congreso-noticia-taller-conferencia.md)
   * [❌ Eliminación de Noticia/Taller/Conferencia](configuracion-inicial/administracion-de-congresos/eliminacion-de-noticia-taller-conferencia.md)
   * [🗂 Historial de congresos](configuracion-inicial/administracion-de-congresos/historial-de-congresos.md)
   * [📕 Reportes de congresos](configuracion-inicial/administracion-de-congresos/reportes-de-congresos.md)
@@ -36,11 +36,12 @@
 
 ## Funcionalidades
 
+* [🗒 Menú](funcionalidades/menu.md)
 * [📰 Novedades](funcionalidades/novedades.md)
 * [🗓 Eventos](funcionalidades/eventos.md)
-* [🗒 Menú](funcionalidades/menu.md)
 * [📅 Calendario](funcionalidades/calendario.md)
 * [🎧 Podcasts](funcionalidades/podcasts.md)
+* [✉ Convocatorias](funcionalidades/convocatorias.md)
 * [🏨 Hoteles](funcionalidades/hoteles.md)
 * [📋 Encuestas de satisfacción](funcionalidades/encuestas-de-satisfaccion.md)
 * [💵 Referencias bancarias](funcionalidades/referencias-bancarias.md)

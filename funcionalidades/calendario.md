@@ -26,4 +26,8 @@ Una vez estemos dentro del calendario y vemos la programación por día podremos
 
 El usuario administrador puede observar el calendario de actividades que se le muestra a los usuarios pero con las opciones añadidas de agregar, borrar y editar las actividades.
 
-<figure><img src="../.gitbook/assets/Untitled (4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (4).png" alt="" width="563"><figcaption><p>Pantalla de "Calendario de Actividades"</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Pantalla "Creación de actividades"</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Pantalla "Modificación de actividades"</p></figcaption></figure>
