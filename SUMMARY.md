@@ -7,6 +7,9 @@
 * [💡 Bienvenido](el-comienzo/bienvenido.md)
 * [👥 ¿Quienes somos?](el-comienzo/quienes-somos.md)
 * [❓ Preguntas frecuentes](el-comienzo/preguntas-frecuentes.md)
+* [📑 Especificaciones técnicas](el-comienzo/especificaciones-tecnicas/README.md)
+  * [💻 Plataformas compatibles](el-comienzo/especificaciones-tecnicas/plataformas-compatibles.md)
+  * [🖱 Requisitos de hardware](el-comienzo/especificaciones-tecnicas/requisitos-de-hardware.md)
 * [📱 Contáctanos](el-comienzo/contactanos.md)
 
 ## Configuración inicial

@@ -1,0 +1,2 @@
+# 📑 Especificaciones técnicas
+

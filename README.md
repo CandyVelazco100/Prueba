@@ -38,6 +38,10 @@ Si eres nuevo por aquí, tal vez te interese alguno de los siguientes links para
 [contactanos.md](el-comienzo/contactanos.md)
 {% endcontent-ref %}
 
+{% content-ref url="el-comienzo/especificaciones-tecnicas/" %}
+[especificaciones-tecnicas](el-comienzo/especificaciones-tecnicas/)
+{% endcontent-ref %}
+
 ### Procesos
 
 Si ya estás familiarizado con nuestro sistema puede ser que te sirvan algunos de los siguientes links.
