@@ -18,7 +18,7 @@ Dentro de este mismo apartado una vez pre-registrado el usuario este podrá gene
 
 <summary>Seguimiento del proceso de registro</summary>
 
-Una característica dentro de este apartado es que todo el proceso de registro está siendo seguido por el software por lo que nos mostrará el estatus del pago antes (no registrado), durante (pendiente) y después (pagado).
+Todo el proceso de registro está siendo seguido por el software por lo que nos mostrará el estatus del pago antes (no registrado), durante (pendiente) y después (pagado).
 
 <img src="../.gitbook/assets/iPhone_14_-_Pre-Registro_(Inscrito_-_Pago_pendiente).png" alt="" data-size="original">
 
