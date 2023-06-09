@@ -36,6 +36,7 @@
 
 ## Funcionalidades
 
+* [📳 Funcionalidades](funcionalidades/funcionalidades.md)
 * [🗒 Menú](funcionalidades/menu.md)
 * [📰 Novedades](funcionalidades/novedades.md)
 * [🗓 Eventos](funcionalidades/eventos.md)
