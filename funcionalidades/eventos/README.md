@@ -14,7 +14,7 @@ Una vez dentro del apartado de talleres, nos permitirá elegir si queremos asist
 
 Muestra la capacidad del taller en cuestión en tiempo real, así es más fácil saber cuando hay cupo disponible y no se ofertan espacios que no existen.
 
-<img src="../.gitbook/assets/iPhone_14_-_Talleres.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/iPhone_14_-_Talleres.png" alt="" data-size="original">
 
 </details>
 
@@ -32,6 +32,6 @@ Una vez dentro del apartado de conferencias, nos permitirá elegir si queremos a
 
 Muestra la capacidad de la conferencia en cuestión en tiempo real, así es más fácil saber cuando hay cupo disponible y no se ofertan lugares de más.
 
-<img src="../.gitbook/assets/iPhone_14_-_Conferencias.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/iPhone_14_-_Conferencias.png" alt="" data-size="original">
 
 </details>
