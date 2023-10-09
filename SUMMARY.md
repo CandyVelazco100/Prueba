@@ -44,7 +44,7 @@
 * [📅 Calendario](funcionalidades/calendario.md)
 * [🎧 Podcasts](funcionalidades/podcasts.md)
 * [✉ Convocatorias](funcionalidades/convocatorias.md)
-* [🏨 Hoteles](funcionalidades/hoteles.md)
+* [🏨 Sede](funcionalidades/sede.md)
 * [📋 Encuestas de satisfacción](funcionalidades/encuestas-de-satisfaccion.md)
 * [💵 Referencias bancarias](funcionalidades/referencias-bancarias.md)
 

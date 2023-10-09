@@ -15,4 +15,4 @@ Nos permite acceder de manera rápida a las diferentes opciones disponibles a re
 * [**Conferencias.**](eventos/#conferencias) Al igual que la sección de talleres, se podrá ver toda la información relacionada con las conferencias. En el caso del administrador podemos borrar, modificar y agregar más conferencias.
 * [**Podcasts.**](podcasts.md) Desplegar grabaciones de las conferencias o ponencias en formato de audio.
 * [**Convocatoria.** ](convocatorias.md)Se despliega la convocatoria en curso del congreso o de futuros congresos.&#x20;
-* [**Hoteles.**](hoteles.md) Se despliega información los diferentes hoteles de la ciudad sede donde se llevará a cabo el congreso Escala.&#x20;
+* [**Hoteles.**](sede.md) Se despliega información los diferentes hoteles de la ciudad sede donde se llevará a cabo el congreso Escala.&#x20;
