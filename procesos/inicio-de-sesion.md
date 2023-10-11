@@ -16,8 +16,4 @@ Estas credenciales pueden ser guardadas al presionar el botón de “Recordarme�
 
 ### Cambio de contraseña
 
-Si el usuario pierde la contraseña es posible recuperarla a partir de proporcionar el correo electrónico registrado para su cuenta.
-
-Posteriormente así enviar un correo con un enlace al proceso de cambio de contraseña donde se ingresará la contraseña nueva y posteriormente ingresar a su cuenta usando dicha nueva contraseña.
-
-<figure><img src="../.gitbook/assets/iPhone_14_-_Pre-Registro_(Recuperacin_de_contrasea).png" alt="" width="375"><figcaption></figcaption></figure>
+Si el usuario pierde la contraseña es posible recuperarla enviando un correo a soporte: _**contact.evogrowth@gmail.com**_
