@@ -8,7 +8,7 @@ description: >-
 
 El apartado de calendario principalmente nos permite observar las fechas y horarios definidos de los diferentes eventos dentro del congreso escala así como ver de manera general si hemos seleccionado asistir alguna de las actividades o conferencias que proporcionará el congreso.
 
-<figure><img src="../.gitbook/assets/iPhone 14 - Calendario.png" alt="" width="195"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/calendario.png" alt=""><figcaption><p>Pantalla principal "Calendario"</p></figcaption></figure>
 
 ### Acceso rápido a actividades
 

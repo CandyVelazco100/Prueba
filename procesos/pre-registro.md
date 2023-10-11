@@ -10,7 +10,7 @@ El apartado de pre-registro, nos permitirá realizar el pre-registro y una vez l
 
 Dentro de este mismo apartado una vez pre-registrado el usuario este podrá generar su línea de pago y nos desplegará la fecha límite de pago. Así mismo una vez generada podrá descargar el archivo de referencia de pago para presentar en alguna sucursal de banco de su elección y posteriormente realizar el pago.
 
-<img src="../.gitbook/assets/iPhone_14_-_Pre-Registro_(recibo_de_pago).png" alt="" data-size="original">
+<img src="../.gitbook/assets/referencia.png" alt="" data-size="original">
 
 </details>
 

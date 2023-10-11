@@ -8,8 +8,4 @@ Para poder crear un congreso/noticia/taller/conferencia, solamente se necesita a
 
 <figure><img src="../../.gitbook/assets/Pantalla “Conferencias” (Administrador)_.png" alt="" width="375"><figcaption><p>Pantalla “Conferencias” (Administrador).</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Pantalla “Añadir Noticia”_.png" alt="" width="375"><figcaption><p>Pantalla "Añadir noticia"</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Pantalla "Crear taller"</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Pantalla "Modificar taller"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Creacion.png" alt=""><figcaption><p>Pantalla "Creación de eventos (Conferencia)"</p></figcaption></figure>

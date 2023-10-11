@@ -8,4 +8,4 @@ Para realizar esta acción, como administrador, se accede mediante [**Menú** ](
 
 <figure><img src="../../.gitbook/assets/Pantalla “Conferencias” (Administrador)_.png" alt="" width="375"><figcaption><p>Pantalla “Conferencias” (Administrador).</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Mensaje de confirmación para la eliminación de una noticia_.png" alt="" width="375"><figcaption><p>Mensaje de confirmación para la eliminación de una noticia.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/eliminacion.png" alt=""><figcaption><p>Mensaje de confirmación</p></figcaption></figure>
